@@ -11,3 +11,4 @@
 ## Libros por leer
 
 - GTD (Getting Things Done), David Allen.
+- La sociedad de la sociedad – Niklas Luhmann
