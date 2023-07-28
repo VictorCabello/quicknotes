@@ -7,3 +7,7 @@
 - [Método Zettelkasten o cómo tomar notas inteligentes](https://colaboratorio.net/javierinsitu/colaboratorio/2020/metodo-zettelkasten-notas-inteligentes/)
 - https://readwise.io/
 - https://javiermartinbass.com/blog/metodologa-zettelkasten
+
+## Libros por leer
+
+- GTD (Getting Things Done), David Allen.
