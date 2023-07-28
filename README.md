@@ -12,3 +12,8 @@
 
 - GTD (Getting Things Done), David Allen.
 - La sociedad de la sociedad – Niklas Luhmann
+
+
+## Preguntas Existenciales
+
+- Cual es la diferencia entre Zettelkasten y un sistema tipo wikipedia ? ( el libro "El metodo  ZEtteskasten: Como tomar notas inteligentes" menciona que Luhmann lo hacia de abajo hacia arriba )
